@@ -47,7 +47,6 @@ Bot inteligente para comercio electrónico especializado en tecnología, con:
 - `scripts/init_db.sql`: Script para crear base de datos y tablas.
 - `.env.example`: Configuración de entorno.
 - `README.md`: Documentación externa para usuarios.
-- `DOC_INTERNA.md`: Documentación para desarrolladores.
 - `bot con interaccion.py`:estructura general del bot 
 
 ## 3. Arquitectura Técnica
