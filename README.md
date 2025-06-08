@@ -1,2 +1,0 @@
-# mitiendaumg
-proyecto
