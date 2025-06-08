@@ -1,4 +1,10 @@
 # 📱 Tienda Tecnológica - Bot de Telegram
+##  Desarrolladores
+
+- 👨‍💻 Carlos andres ramirez Garcia 7690-21-10603
+- 👨‍💻 Elmer Istupe Ruiz 7690-21-10969
+
+-
 ```mermaid
 graph LR
     A[Cliente Telegram] --> B[Bot Python]
@@ -84,9 +90,4 @@ Registra cada conversación útil para futuras mejoras del sistema (ej. NLP).
 - Exportación de estadísticas.
 - Sistema de recomendaciones basado en IA.
 
-## 7. Desarrolladores
 
-- 👨‍💻 Carlos andres ramirez Garcia 7690-21-10603
-- 👨‍💻 Carlos andres ramirez Garcia 7690-21-10603
-
--
